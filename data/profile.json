@@ -28,8 +28,16 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "MySql",
+        "logo": "https://github.com/marcos-pardinho/js-developer-portfolio/blob/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://github.com/marcos-pardinho/js-developer-portfolio/blob/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/marcos-pardinho/js-developer-portfolio/blob/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
